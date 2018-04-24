@@ -99,3 +99,4 @@ ENV/
 
 # mypy
 .mypy_cache/
+/dog-project/saved_models/
