@@ -100,3 +100,5 @@ ENV/
 # mypy
 .mypy_cache/
 /dog-project/saved_models/
+/dog-project/bottleneck_features/
+/dog-project/test_pic/
